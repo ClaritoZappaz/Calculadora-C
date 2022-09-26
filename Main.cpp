@@ -1,3 +1,4 @@
+//Clarito Zappaz
 // Importa a Biblioteca math.h
 #include <math.h>
 // Importa a Biblioteca stdio.h
